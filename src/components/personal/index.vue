@@ -85,11 +85,11 @@
 				</div>
 			</div>
 
-			<!-- 环球锦囊团优惠 -->
+			<!-- 环球好多团优惠 -->
 			<div class="gift-item">
 				<div class="brief" v-on:click="showJinnang();">
 					<span class="gift-ico jinnang-ico"></span>
-					<span class="gift-name">环球锦囊团优惠({{jinnangNum}})</span>
+					<span class="gift-name">环球好多团优惠({{jinnangNum}})</span>
 					<span class="flex-ico" v-bind:class="{'flex-ico-up': isJinnang, 'flex-ico-down': !isJinnang}"></span>
 				</div>
 				<div class="coupon-list-wraper" v-bind:class="{'gift-detail-on': isJinnang, 'gift-detail-off': !isJinnang}">

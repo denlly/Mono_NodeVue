@@ -12,7 +12,7 @@
 					<span>{{countryName}}</span>
 					<img src="./images/arrowsblue.png" width="15" height="15" />
 				</a>
-				<div class="title">环球锦囊团</div>
+				<div class="title">环球好多团</div>
 			</div>
 		</div>
 

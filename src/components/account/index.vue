@@ -21,7 +21,7 @@
 		data () {
 			return {
 				isAccount: true,
-				explainName: '欢迎来到锦囊团'
+				explainName: '欢迎来到好多团'
 			}
 		},
 		components: {
