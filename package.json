@@ -2,7 +2,7 @@
   "name": "vuenode",
   "version": "1.0.0",
   "description": "a vue.js project of VueNode",
-  "author": "fanxd(https://github.com/denlly)",
+  "author": "denlly(https://github.com/denlly)",
   "private": true,
   "scripts": {
     "dev": "node build/dev-server.js",
